@@ -1,1 +1,1 @@
-include ':applaunchcheckersample'
+include ':applaunchcheckersample', ':animations'
