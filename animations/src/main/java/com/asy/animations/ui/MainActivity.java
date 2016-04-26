@@ -26,6 +26,7 @@ import android.widget.Button;
 
 import com.asy.animations.R;
 import com.asy.animations.ui.activity.list.UserListActivity;
+import com.asy.animations.ui.fragment.HeroesMainActivity;
 
 /**
  * Class Description.
@@ -72,7 +73,9 @@ public class MainActivity extends AppCompatActivity {
         btFragmentAnimations.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent i = new Intent( MainActivity.this, HeroesMainActivity.class);
 
+                startActivity(i);
             }
         });
 

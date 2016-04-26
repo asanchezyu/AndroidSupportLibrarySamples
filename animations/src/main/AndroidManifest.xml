@@ -22,6 +22,8 @@
 
         <activity android:name=".ui.activity.list.UserListActivity"/>
 
+        <activity android:name=".ui.fragment.HeroesMainActivity"/>
+
     </application>
 
 </manifest>
