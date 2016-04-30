@@ -9,6 +9,9 @@ This is a sample project of the new elements which appears in the new versions o
 Example with the new element developed by google development team at the 23.3.0 version of
 Android Support V4.
 
+# Transitions
+Example for transitions between activities and fragments. 
+![transition]
 
 # License
     Copyright 2016 Alejandro Sánchez
@@ -24,3 +27,6 @@ Android Support V4.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[transitions]: https://raw.githubusercontent.com/asanchezyu/AndroidSupportLibrarySamples/master/art/transitions.gif
