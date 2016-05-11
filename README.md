@@ -13,6 +13,12 @@ Android Support V4.
 Example for transitions between activities and fragments.
 ![Transitions](https://raw.githubusercontent.com/asanchezyu/AndroidSupportLibrarySamples/master/art/transitions.gif)
 
+# VectorDrawables
+How to use VectorDrawable and AnimatedVectorDrawable. 2 separated samples :)
+
+
+For more information, visit my [blog](http://blog.asanchez-portfolio.es)
+
 # License
     Copyright 2016 Alejandro Sánchez
 
